@@ -1,4 +1,5 @@
 # KodRehberi: C++ ve Java Asistanı
+https://youtu.be/ceLZQ1-dXaM?si=-Ogp5k2R95zO7twD
 
 ## [cite_start]Proje Tanımı 
 Bu proje, üniversite öğrencilerinin Nesne Yönelimli Programlama (OOP) derslerinde karşılaştıkları soyut ve karmaşık konseptleri (Polimorfizm, Kalıtım, Interface vb.) daha rahat kavrayabilmeleri ve sınavlara/mülakatlara hazırlanabilmeleri için geliştirilmiş yapay zeka destekli bir etkileşimli öğrenme asistanıdır.
